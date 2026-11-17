@@ -1,0 +1,11 @@
+{
+  "name": "javi-top",
+  "version": "1.0.0",
+  "description": "Javi Top: run and gun en el MediaMarkt para Android",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0"
+  }
+}
